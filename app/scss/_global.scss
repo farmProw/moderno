@@ -78,6 +78,8 @@ body{
 .breadcrumbs{
   &__inner{
     padding: 45px 0px 40px;
+    overflow: hidden;
+    width: 1200px;
       
   }
   &-list{
@@ -122,4 +124,7 @@ body{
     position: absolute;
 
   }
+}
+#modal1{
+  display: none;
 }
