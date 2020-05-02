@@ -214,11 +214,10 @@
 
 .circle__menu {
   position: absolute;
-  top: 62px;
+  top: 59px;
   border-top: 1px solid #e0e0e0;
   right: 0;
   height: 0;
-  overflow: hidden;
   z-index: 1;
 
 }
@@ -2600,7 +2599,7 @@ textarea {
 
 .jq-selectbox__select {
   height: 40px;
-  max-width: 540px;
+ 
   width: 100%;
   line-height: 40px;
   padding: 0 45px 0 10px;
